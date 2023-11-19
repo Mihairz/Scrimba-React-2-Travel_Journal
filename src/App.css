@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cards {
+  max-width: 1000px;
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  gap: 30px;
+}
